@@ -1,0 +1,26 @@
+.formWrapper {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    width: 350px;
+}
+
+.formWrapper form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.submitButton {
+    padding: 5px;
+    background-color: dodgerblue;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    color: white;
+}
